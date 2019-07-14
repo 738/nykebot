@@ -1,0 +1,19 @@
+{
+  "name": "nykebot",
+  "version": "0.1.0",
+  "description": "I am NykeBot",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "start": "node index.js"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git@github.com-jonjee:738/nykebot.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "dependencies": {
+    "puppeteer": "^1.18.1"
+  }
+}
