@@ -1,0 +1,14 @@
+{
+    "manifest_version": 2,
+    "name": "NYKEBOT",
+    "version": "0.1.0",
+    "description": "I am nykebot",
+    "homepage_url": "https://github.com/738/nykebot",
+    "browser_action": {
+        "default_title": "nykebot",
+        "default_popup": "index.html"
+    },
+    "permissions": [
+        "tabs"
+    ]
+}
